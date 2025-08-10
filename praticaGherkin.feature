@@ -21,6 +21,6 @@ Examples:
 
 Scenario: Curso em andamento 
 When assisto algumas aulas
-Then não tenho meu certifica disponível
+Then não tenho meu certificado disponível
 But possuo aulas assistidas
 
